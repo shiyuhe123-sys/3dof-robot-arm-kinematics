@@ -2,6 +2,16 @@
 
 An assessed UCL team project that converted measured Cartesian targets into physical pick-and-place motion using forward/inverse kinematics, servo calibration and a cubic Cartesian trajectory.
 
+## Provenance
+
+- **Originally completed:** March 2026 as assessed UCL coursework by a team of four.
+- **Public repository created:** August 2026.
+- **Original evidence retained:** submitted assessment result, validation measurements, archived Arduino/MATLAB material and selected project photographs.
+- **Later portfolio additions:** reconciled source, reconstruction notes, documentation and a zero-dependency Python verification suite.
+- **Validation rerun status:** the published numerical checks have been rerun; the reconstructed controller has not been rerun on the original hardware.
+
+This is a curated reconstruction from the original project files, not the private submission archive. The repository preserves the real chronology and distinguishes assessed team evidence from later documentation and verification work.
+
 ## Result
 
 - **19/20 assessed demonstration**: 3/4 object localisation; 4/4 motion to object, grasping, return/drop-off and release.
